@@ -56,6 +56,7 @@ Built for servers wanting roads that feel less scripted and more alive.
 ## Socials
 
 Discord: https://discord.gg/J3d7BnFGxX (Elegancy Studios)
+
 Youtube: https://www.youtube.com/@ElegancyStudios
 
 Joining and or subscribing is greatly appriciated :)
